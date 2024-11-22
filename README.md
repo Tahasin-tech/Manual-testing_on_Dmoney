@@ -9,7 +9,7 @@ This Project invloves comprehensive maual testing pf Dmoney Apps Features. The f
 1. Login as admin with the provided credentials.
 2. Admin can create a Customer, Agent, another admin, or merchant.
 3. Agent can deposit or make payments to a merchant.
-4.Customer can withdraw and make payments.
-5.Merchant can only see transaction history of received payments.
+4. Customer can withdraw and make payments.
+5. Merchant can only see transaction history of received payments.
 
 For detailed test cases, and bug reports, please visit the [project files here](https://drive.google.com/drive/folders/1mOtkbkHKnPBcwk1wWhHttm1iDLFwGQEV?usp=sharing).
